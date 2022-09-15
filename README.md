@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h2 align="center">Hi 👋 I'm Adrian</h2>
 <h3 align="center">A Software developer in process & technology enthusiast</h3>
 
 <p align="center">🌱 I’m currently learning Web Development at EDIX</p>
