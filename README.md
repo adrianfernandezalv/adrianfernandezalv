@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A Software developer in process & technology enthusiast</h3>
 
-- 🌱 I’m currently learning **Web Development at EDIX**
+<p align="center">🌱 I’m currently learning **Web Development at EDIX**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
