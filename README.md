@@ -1,5 +1,5 @@
 <h2 align="center">Hey! 👋 I'm Adrian 👨🏻‍💻</h2>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">Check out my repositories 👇</p>
 
 <h3 align="center">Languages and Tools:</h3>
